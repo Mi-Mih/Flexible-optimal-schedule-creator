@@ -11,4 +11,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-.xml
+*.xml
+.idea/
+input/
+output/
